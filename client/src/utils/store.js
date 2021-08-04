@@ -1,8 +1,7 @@
-// **** NEW FILE I CREATED ****
-
+import reducer from "./reducers";
 import { createStore } from "redux";
-import reducers from "./reducers"
+import { devToolsEnhancer } from "redux-devtools-extension";
 
-const store = createStore(reducers)
+const store = createStore(reducer, devToolsEnhancer());
 
-export default store
+export default store;
