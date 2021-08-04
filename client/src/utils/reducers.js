@@ -20,7 +20,7 @@ const initialState = {
 
 }
 // TODO: To get a better understand of how a reducer works - add comments to the various actions in the reducer
-export default reducers = (state = initialState, action) => {
+const reducers = (state = initialState, action) => {
   switch (action.type) {
     // TODO: Add a comment describing the functionality of the UPDATE_PRODUCTS case
     // Your comment here
@@ -102,3 +102,4 @@ export default reducers = (state = initialState, action) => {
 };
 
 
+export default reducers
