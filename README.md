@@ -19,7 +19,7 @@ With many different options available to run your apps, companies will look to k
 
 ## Usage
 
-The app is deployed through Heroku, and can be found at .
+The app is deployed through Heroku, and can be found at https://redux-store0805.herokuapp.com/.
 
 
 ## Contributing
@@ -46,6 +46,7 @@ MIT
 I utilized the following sites to assist in refactoring the online store app to Redux.
 
 - https://redux.js.org/tutorials/fundamentals/part-1-overview
+- https://reactjs.org/docs/context.html
 
 
 
