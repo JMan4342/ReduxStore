@@ -5,7 +5,7 @@
 
 ## Description
 
-
+With many different options available to run your apps, companies will look to keep their systems updated to meet their needs without erasing all the time and effort put into place to build the original app.  By refactoring the current code to the software that best meets your needs, you can make those updates without needing to completely rewrite all the code.  For the e-commerce store in this activity, I refactored the code to use Redux by determining that the original GlobalState file needed to be replaced with a file supporting Redux. I then followed import/export path that the Global State had established and made the necessary changes in those files in order to have the store work properly with Redux.
 
 
 ## Table of Contents
@@ -33,7 +33,7 @@ You can find the project at https://github.com/JMan4342/ReduxStore.
 
 Below you will find a link to a video demoing the Redux Store app.
 
-
+https://drive.google.com/file/d/1pEfIO0qDlBxI5UptWXvltTGFgfZsEe50/view?usp=sharing
 
 
 ## License
